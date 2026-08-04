@@ -1,10 +1,10 @@
 
 
 <svg width="340" height="300" viewBox="0 0 340 300" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="170,20 40,270 300,270" fill="none" stroke="#eeeeee" stroke-width="2"/>
-    <line x1="40" y1="270" x2="217" y2="110" stroke="#eeeeee" stroke-width="2"/>
-    <line x1="300" y1="270" x2="123" y2="110" stroke="#eeeeee" stroke-width="2"/>
-    <text x="165" y="18" font-size="16" fill="#eeeeee">A</text>
-    <text x="30" y="278" font-size="16" fill="#eeeeee">B</text>
-    <text x="305" y="278" font-size="16" fill="#eeeeee">C</text>
+    <polygon points="170,20 40,270 300,270" fill="none" stroke="#333333" stroke-width="2"/>
+    <line x1="40" y1="270" x2="217" y2="110" stroke="#333333" stroke-width="2"/>
+    <line x1="300" y1="270" x2="123" y2="110" stroke="#333333" stroke-width="2"/>
+    <text x="165" y="18" font-size="16" fill="#222222">A</text>
+    <text x="30" y="278" font-size="16" fill="#222222">B</text>
+    <text x="305" y="278" font-size="16" fill="#222222">C</text>
 </svg>
