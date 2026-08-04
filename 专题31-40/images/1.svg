@@ -8,18 +8,3 @@
     <text x="30" y="278" font-size="16" fill="#222222">B</text>
     <text x="305" y="278" font-size="16" fill="#222222">C</text>
 </svg>
-
-
-<svg width="360" height="260" viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg">
-<!-- 坐标轴 -->
-<line x1="30" y1="130" x2="340" y2="130" stroke="#333" stroke-width="1.5"/>
-<line x1="180" y1="240" x2="180" y2="20"  stroke="#333" stroke-width="1.5"/>
-
-<!-- 抛物线 y = x^2（缩放后） -->
-<path d="M60,230 Q180,30 300,230" fill="none" stroke="#2563eb" stroke-width="2.5"/>
-
-<!-- 标签 -->
-<text x="345" y="134" font-size="12" fill="#333">x</text>
-<text x="184" y="18"  font-size="12" fill="#333">y</text>
-<text x="205" y="45" font-size="14" fill="#2563eb">y = x²</text>
-</svg>
