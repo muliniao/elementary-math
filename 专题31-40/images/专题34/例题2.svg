@@ -1,0 +1,18 @@
+<svg width="380" height="100" viewBox="0 0 380 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- 5个端点的线段 -->
+    <line x1="20" y1="50" x2="360" y2="50" stroke="#333333" stroke-width="2"/>
+    <!-- 端点标记 -->
+    <circle cx="20" cy="50" r="4" fill="#333333"/>
+    <circle cx="88" cy="50" r="4" fill="#333333"/>
+    <circle cx="156" cy="50" r="4" fill="#333333"/>
+    <circle cx="224" cy="50" r="4" fill="#333333"/>
+    <circle cx="292" cy="50" r="4" fill="#333333"/>
+    <circle cx="360" cy="50" r="4" fill="#333333"/>
+    <!-- 标签 -->
+    <text x="10" y="75" font-size="14" fill="#222222">A</text>
+    <text x="83" y="75" font-size="14" fill="#222222">B</text>
+    <text x="151" y="75" font-size="14" fill="#222222">C</text>
+    <text x="219" y="75" font-size="14" fill="#222222">D</text>
+    <text x="287" y="75" font-size="14" fill="#222222">E</text>
+    <text x="355" y="75" font-size="14" fill="#222222">F</text>
+</svg>

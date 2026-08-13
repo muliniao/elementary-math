@@ -1,0 +1,20 @@
+<svg width="340" height="280" viewBox="0 0 340 280" xmlns="http://www.w3.org/2000/svg">
+    <!-- 矩形边框 -->
+    <rect x="50" y="40" width="240" height="200" fill="none" stroke="#333333" stroke-width="2"/>
+    <!-- 两条对角线 -->
+    <line x1="50" y1="40" x2="290" y2="240" stroke="#333333" stroke-width="2"/>
+    <line x1="290" y1="40" x2="50" y2="240" stroke="#333333" stroke-width="2"/>
+    <!-- 顶点标记 -->
+    <circle cx="50" cy="40" r="4" fill="#333333"/>
+    <circle cx="290" cy="40" r="4" fill="#333333"/>
+    <circle cx="50" cy="240" r="4" fill="#333333"/>
+    <circle cx="290" cy="240" r="4" fill="#333333"/>
+    <!-- 中心交点标记 -->
+    <circle cx="170" cy="140" r="4" fill="#333333"/>
+    <!-- 标签 -->
+    <text x="40" y="30" font-size="14" fill="#222222">A</text>
+    <text x="295" y="30" font-size="14" fill="#222222">B</text>
+    <text x="40" y="265" font-size="14" fill="#222222">D</text>
+    <text x="295" y="265" font-size="14" fill="#222222">C</text>
+    <text x="165" y="160" font-size="14" fill="#222222">O</text>
+</svg>

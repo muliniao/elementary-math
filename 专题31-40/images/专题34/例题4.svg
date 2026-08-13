@@ -1,0 +1,22 @@
+<svg width="340" height="300" viewBox="0 0 340 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- 底边 -->
+    <line x1="40" y1="250" x2="300" y2="250" stroke="#333333" stroke-width="2"/>
+    <!-- 从顶点到底端点的线 -->
+    <line x1="170" y1="30" x2="40" y2="250" stroke="#333333" stroke-width="2"/>
+    <line x1="170" y1="30" x2="110" y2="250" stroke="#333333" stroke-width="2"/>
+    <line x1="170" y1="30" x2="210" y2="250" stroke="#333333" stroke-width="2"/>
+    <line x1="170" y1="30" x2="300" y2="250" stroke="#333333" stroke-width="2"/>
+    <!-- 顶点标记 -->
+    <circle cx="170" cy="30" r="4" fill="#333333"/>
+    <!-- 底端点标记 -->
+    <circle cx="40" cy="250" r="4" fill="#333333"/>
+    <circle cx="110" cy="250" r="4" fill="#333333"/>
+    <circle cx="210" cy="250" r="4" fill="#333333"/>
+    <circle cx="300" cy="250" r="4" fill="#333333"/>
+    <!-- 标签 -->
+    <text x="165" y="20" font-size="14" fill="#222222">A</text>
+    <text x="30" y="275" font-size="14" fill="#222222">B</text>
+    <text x="105" y="275" font-size="14" fill="#222222">C</text>
+    <text x="205" y="275" font-size="14" fill="#222222">D</text>
+    <text x="300" y="275" font-size="14" fill="#222222">E</text>
+</svg>
