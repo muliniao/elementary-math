@@ -1,0 +1,6 @@
+<svg width="280" height="280" viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg">
+    <!-- 长方形 -->
+    <rect x="30" y="30" width="220" height="100" fill="none" stroke="#333333" stroke-width="2"/>
+    <!-- 下方拼接的三角形 -->
+    <polygon points="140,130 60,240 220,240" fill="none" stroke="#333333" stroke-width="2"/>
+</svg>
